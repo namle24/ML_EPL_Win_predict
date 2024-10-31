@@ -28,6 +28,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 Special thanks to Kaggle and FBref for the datasets used in this project.
 
 ## 
-![result](ML-Premier-League-Wins-Predictor\result\Figure_1.png)
+![result]([ML-Premier-League-Wins-Predictor\result\Figure_1.png](https://github.com/namle24/ML_EPL_Win_predict/blob/main/ML-Premier-League-Wins-Predictor/result/Figure_1.png))
 ## Comparision result
-![result](ML-Premier-League-Wins-Predictor\result\Figure_3.png)
+![result]([ML-Premier-League-Wins-Predictor\result\Figure_3.png](https://github.com/namle24/ML_EPL_Win_predict/blob/main/ML-Premier-League-Wins-Predictor/result/Figure_3.png))
